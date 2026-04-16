@@ -2,7 +2,7 @@
 
 **On-chain tower defense on Base. Own your towers. Earn $GOBS from kills. Hire an AI agent to play for you 24/7.**
 
-🎮 **Play:** [goblinrush.replit.app](https://goblinrush.replit.app)
+🎮 **Play:** [goblinrush.app](https://goblinrush.app)
 🐦 **Follow:** [@goblinrush_](https://x.com/goblinrush_)
 🔗 **Chain:** Base (ID 8453)
 
@@ -102,10 +102,10 @@ See the [`/examples`](./examples) folder for code samples covering:
 
 ## Links
 
-- Game: [goblinrush.replit.app](https://goblinrush.replit.app)
+- Game: [goblinrush.app](https://goblinrush.app)
 - X: [@goblinrush_](https://x.com/goblinrush_)
 - Token: [BaseScan](https://basescan.org/token/0x14539d3A8AC0017a086E8952870abB32ABF0E577)
-- Docs: [goblinrush.replit.app/docs](https://goblinrush.replit.app/docs)
+- Docs: [goblinrush.app/docs](https://goblinrush.app/docs)
 
 ---
 
