@@ -105,7 +105,6 @@ See the [`/examples`](./examples) folder for code samples covering:
 - Game: [goblinrush.app](https://goblinrush.app)
 - X: [@goblinrush_](https://x.com/goblinrush_)
 - Token: [BaseScan](https://basescan.org/token/0x14539d3A8AC0017a086E8952870abB32ABF0E577)
-- Docs: [goblinrush.app/docs](https://goblinrush.app/docs)
 
 ---
 
